@@ -2,3 +2,4 @@ Welcome to Git Tutorial
 This tutorial will be great
 Understanding staging area
 We are adding a new line
+This remains the same inspite of cherry pick
