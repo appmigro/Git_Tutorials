@@ -1,3 +1,4 @@
 Welcome to Git Tutorial
 This tutorial will be great
 Understanding staging area
+This is a new line
